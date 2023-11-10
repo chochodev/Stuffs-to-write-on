@@ -1,6 +1,7 @@
 # PROJECT IDEAS
 
-
+## FULLSTACK
+* ChatApp
 
 # STUFFS TO WRITE ON
 
